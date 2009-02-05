@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armory", "src\Armory\Armory.csproj", "{4509F04A-4B1B-401E-9B90-4DB6372A707E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armory", "Armory\Armory.csproj", "{4509F04A-4B1B-401E-9B90-4DB6372A707E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armory.Test", "src\Armory\Test\Armory.Test.csproj", "{276147B1-908F-41FE-A6CA-D9AAC75D367E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armory.Test", "Armory\Test\Armory.Test.csproj", "{276147B1-908F-41FE-A6CA-D9AAC75D367E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterMechanic.Test", "src\CharacterMechanic\Test\CharacterMechanic.Test.csproj", "{A5BF1450-657D-4442-B9C5-17F23275178D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterMechanic.Test", "CharacterMechanic\Test\CharacterMechanic.Test.csproj", "{A5BF1450-657D-4442-B9C5-17F23275178D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterMechanic", "src\CharacterMechanic\CharacterMechanic.csproj", "{38EF394D-8408-4B64-BEAB-DBEFBE324FAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterMechanic", "CharacterMechanic\CharacterMechanic.csproj", "{38EF394D-8408-4B64-BEAB-DBEFBE324FAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
