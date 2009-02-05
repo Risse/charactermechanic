@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/layout/search.xsl"?>
+<page globalSearch="1" lang="en_us" requestQuery="searchQuery=noresults&amp;searchType=all" requestUrl="/search.xml">
+  <armorySearch>
+    <tabs count="0" selected="characters">
+      <tab count="0" label="armory.tabs.characters" type="characters"/>
+      <tab count="0" label="armory.tabs.arenateams" type="arenateams"/>
+      <tab count="0" label="armory.tabs.items" type="items"/>
+      <tab count="0" label="armory.tabs.guilds" type="guilds"/>
+    </tabs>
+    <searchResults pageCount="1" pageCurrent="1" searchError="" searchFilter="" searchMsg="" searchText="noresults" searchType="all" url="searchType=all&amp;searchQuery=noresults&amp;p=1&amp;selectedTab=characters&amp;sd=a" version="1.0">
+
+      <filters/>
+      <characters/>
+    </searchResults>
+  </armorySearch>
+</page>

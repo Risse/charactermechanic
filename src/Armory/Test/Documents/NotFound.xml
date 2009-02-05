@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/layout/character-sheet.xsl"?>
+<page globalSearch="1" lang="en_us" requestUrl="/character-sheet.xml">
+  <characterInfo errCode="noCharacter"/>
+</page>
